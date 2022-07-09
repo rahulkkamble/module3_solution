@@ -1,0 +1,61 @@
+body{
+    color: black;
+    font-family: cursive;
+}
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+    padding: 0px;
+}
+#tbtn{
+    margin: 15px;
+}
+.navbar-brand h1 {
+    font-family: 'lora', serif;
+    color: rgb(186, 241, 114);
+    font-size: 1.5em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+}
+.navbar-brand {
+    padding-top: 25px;
+    padding-bottom: 45px;
+}
+
+#nav-list a{
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    background-color: rgb(169, 185, 134);
+    transition: 0.2s;
+}
+#nav-list a:hover{
+    color: whitesmoke;
+    font-size: x-large;
+    text-shadow: 1px 1px 10px #222;
+    transition: 0.2s;
+    background-color: gray;
+}
+#menu-title{
+    font-weight: bold;
+    text-shadow: 1px 1px 5px gray;
+}
+
+.back h3{
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.back p{
+    padding: 15px;
+    padding-top: 0px;
+}
+div.back div{
+    background-color: gray;
+}
